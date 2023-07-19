@@ -18,10 +18,6 @@ Hi 👋, I'm MS Studios<br>I'm a 21 year old front-end developer from Milan, IT.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Simomagy&icon=7&color=10)](https://visitcount.itsvg.in)
 
