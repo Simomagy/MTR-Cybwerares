@@ -22,9 +22,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
   <img width="12" />
 </div>
-
-###
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simomagy&layout=compact)
-
-###
