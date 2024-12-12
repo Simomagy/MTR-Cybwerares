@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/873274384939364372/1131313987145973841/logo_ms.png"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/873274384939364372/1131313987145973841/logo_ms.png?ex=675b4041&is=6759eec1&hm=68c4890322a91d20f7d76ba8e2b6f4b7cf3b0f5182abe897fe4b82b39075d2ad&"  />
 </div>
 
 # 💫 About Me:
