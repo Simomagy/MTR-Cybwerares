@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-Hi 👋, I'm MS Studios<br>I'm a 21 year old front-end developer from Milan, IT.<br><br>🔭 I’m currently working on FiveM Development<br><br>🌱 I’m currently learning Lua<br><br>📫 How to reach me ms.studio@mail.ch
+Hi 👋, I'm MS Studios<br>I'm a 22 year old front-end developer from Milan, IT.<br><br>🔭 I’m currently working on C# .NET Desktop Development and Advanced Next.JS websites<br><br>🌱 I’m currently learning C#<br><br>📫 How to reach me ms.studio@mail.ch
 
 
 ## 🌐 Socials:
